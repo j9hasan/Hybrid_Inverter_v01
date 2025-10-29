@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=Controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=controller_2.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Converter_Main_HV.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=DC_Power.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Sensing.SchDoc|SheetNumber=2
