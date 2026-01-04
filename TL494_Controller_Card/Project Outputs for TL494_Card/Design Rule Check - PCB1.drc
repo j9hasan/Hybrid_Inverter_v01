@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Hybrid_Inverter_v01\TL494_Controller_Card\PCB1.PcbDoc
-Date     : 19-Dec-25
-Time     : 12:38:29 AM
+Date     : 04-Jan-26
+Time     : 10:14:40 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -98,10 +98,10 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.14mm < 0.254mm) Between Arc (4.699mm,13.214mm) on Top Overlay And Text "-" (7.024mm,12.683mm) on Top Overlay Silk Text to Silk Clearance [0.14mm]
    Violation between Silk To Silk Clearance Constraint: (0.08mm < 0.254mm) Between Arc (4.699mm,13.214mm) on Top Overlay And Text "+" (6.899mm,15.283mm) on Top Overlay Silk Text to Silk Clearance [0.08mm]
    Violation between Silk To Silk Clearance Constraint: (0.185mm < 0.254mm) Between Text "C7" (15.182mm,16.014mm) on Top Overlay And Track (15.621mm,14.433mm)(15.621mm,19.259mm) on Top Overlay Silk Text to Silk Clearance [0.185mm]
-   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "Q3" (47.059mm,13.986mm) on Top Overlay And Track (44.831mm,14.379mm)(45.756mm,14.379mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
-   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "Q3" (47.059mm,13.986mm) on Top Overlay And Track (45.756mm,14.379mm)(45.756mm,14.959mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q5" (46.998mm,26.22mm) on Top Overlay And Track (48.034mm,27.269mm)(48.034mm,28.194mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q5" (46.998mm,26.22mm) on Top Overlay And Track (48.034mm,27.269mm)(48.614mm,27.269mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "Q2" (47.059mm,13.986mm) on Top Overlay And Track (44.831mm,14.379mm)(45.756mm,14.379mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
+   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "Q2" (47.059mm,13.986mm) on Top Overlay And Track (45.756mm,14.379mm)(45.756mm,14.959mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
+   Violation between Silk To Silk Clearance Constraint: (0.137mm < 0.254mm) Between Text "Q4" (46.998mm,26.22mm) on Top Overlay And Track (48.034mm,27.269mm)(48.034mm,28.194mm) on Top Overlay Silk Text to Silk Clearance [0.137mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q4" (46.998mm,26.22mm) on Top Overlay And Track (48.034mm,27.269mm)(48.614mm,27.269mm) on Top Overlay Silk Text to Silk Clearance [0mm]
    Violation between Silk To Silk Clearance Constraint: (0.217mm < 0.254mm) Between Text "R5" (44.462mm,37.269mm) on Top Overlay And Track (45.874mm,36.866mm)(46.454mm,36.866mm) on Top Overlay Silk Text to Silk Clearance [0.217mm]
    Violation between Silk To Silk Clearance Constraint: (0.093mm < 0.254mm) Between Text "R6" (45.478mm,33.459mm) on Top Overlay And Track (46.891mm,32.258mm)(46.891mm,33.183mm) on Top Overlay Silk Text to Silk Clearance [0.093mm]
    Violation between Silk To Silk Clearance Constraint: (0.093mm < 0.254mm) Between Text "R6" (45.478mm,33.459mm) on Top Overlay And Track (46.891mm,33.183mm)(47.471mm,33.183mm) on Top Overlay Silk Text to Silk Clearance [0.093mm]
