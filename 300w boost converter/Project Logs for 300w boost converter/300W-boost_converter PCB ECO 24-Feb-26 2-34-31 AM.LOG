@@ -1,0 +1,288 @@
+Add Component: Footprint Not Found CAP LS-1.5mm D4 H5
+Add Component: Footprint Not Found CAP LS-1.5mm D4 H5
+Added Component: Designator=C3(CAP-CER-2.54)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0104"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP LS-1.5mm D4 H5
+Added Component: Designator=C5(CAP-CER-2.54)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0104"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP-CER-2.54)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0104"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP-P_Pilm)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR1/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SR201C104KARTR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR1/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP-P_Pilm)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR1/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SR201C104KARTR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR1/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP-TH_BD35.0-P10.00-D2.3-FD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C43351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0057"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP-TH_BD18.0-P7.50-D1.2-FD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C43351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0057"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Added Component: Designator=Con4(2POS - 3)
+Add Component: Footprint Not Found 2pos
+Added Component: Designator=D1(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DO-201AD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D9(DO-201AD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D10(DO-201AD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D11(DO-201AD)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D12(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D13(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=D14(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C36138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0313"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR-TH_6P-P2.54-V-F - duplicate)
+Added Component: Designator=L1(TOROIDAL CORE INDUCTOR)
+Added Component: Designator=Q1(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TO-220)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C274639"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.2595"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Res_TH 3W
+Added Component: Designator=R2(RES-TH-7mm)
+Added Component: Designator=R3(RES-TH-7mm)
+Added Component: Designator=R4(RES-TH-7mm)
+Added Component: Designator=R5(RES-TH-7mm)
+Added Component: Designator=R6(RES-TH-7mm)
+Added Component: Designator=R7(RES-TH-7mm)
+Add Component: Footprint Not Found Res_TH 3W
+Added Component: Designator=R9(RES-TH-7mm)
+Added Component: Designator=R10(RES-TH-7mm)
+Added Component: Designator=R11(RES-TH-7mm)
+Added Component: Designator=R12(RES-TH-7mm)
+Added Component: Designator=R13(RES-TH-7mm)
+Added Component: Designator=R14(RES-TH-7mm)
+Added Component: Designator=R15(RES-TH-7mm)
+Added Component: Designator=R16(RES-TH-7mm)
+Added Component: Designator=R17(TRIM_3296W-1-250)
+Add Component: Footprint Not Found Res_TH 3W
+Add Component: Footprint Not Found Res_TH 3W
+Add Component: Footprint Not Found Res_TH 3W
+Added Component: Designator=R21(RES-TH-7mm)
+Added Component: Designator=R22(RES-TH-7mm)
+Added Component: Designator=T1(EE42-FP16)
+Added Component: Designator=VR1(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7812CT/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7812CT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7812CT/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR2(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7812CT/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7812CT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7812CT/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=VR2-3
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=C3-2
+Added Pin To Net: NetName=+12 Pin=VR1-3
+Added Pin To Net: NetName=+12 Pin=VR2-1
+Added Net: Name=+12
+Added Pin To Net: NetName=+18VAC Pin=D1-1
+Added Pin To Net: NetName=+18VAC Pin=D2-2
+Added Pin To Net: NetName=+18VAC Pin=T1-5
+Added Net: Name=+18VAC
+Added Pin To Net: NetName=-18VAC Pin=D3-1
+Added Pin To Net: NetName=-18VAC Pin=D4-2
+Added Pin To Net: NetName=-18VAC Pin=T1-4
+Added Net: Name=-18VAC
+Added Pin To Net: NetName=400V Pin=C9-1
+Added Pin To Net: NetName=400V Pin=Con4-2
+Added Pin To Net: NetName=400V Pin=L1-1
+Added Pin To Net: NetName=400V Pin=R9-2
+Added Net: Name=400V
+Added Pin To Net: NetName=D1 Pin=C7-2
+Added Pin To Net: NetName=D1 Pin=Q1-2
+Added Pin To Net: NetName=D1 Pin=Q2-2
+Added Pin To Net: NetName=D1 Pin=Q3-2
+Added Pin To Net: NetName=D1 Pin=T1-1
+Added Pin To Net: NetName=D1 Pin=T1-1
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=C8-1
+Added Pin To Net: NetName=D2 Pin=Q4-2
+Added Pin To Net: NetName=D2 Pin=Q5-2
+Added Pin To Net: NetName=D2 Pin=Q6-2
+Added Pin To Net: NetName=D2 Pin=T1-3
+Added Pin To Net: NetName=D2 Pin=T1-3
+Added Net: Name=D2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D8-A
+Added Pin To Net: NetName=GND Pin=D10-A
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=I_SENSE Pin=Con4-1
+Added Pin To Net: NetName=I_SENSE Pin=J1-3
+Added Net: Name=I_SENSE
+Added Pin To Net: NetName=NetC2_1 Pin=C5-2
+Added Pin To Net: NetName=NetC2_1 Pin=D2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D4-1
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q1-1
+Added Pin To Net: NetName=NetD5_2 Pin=R2-2
+Added Pin To Net: NetName=NetD5_2 Pin=R7-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=Q2-1
+Added Pin To Net: NetName=NetD6_2 Pin=R3-2
+Added Pin To Net: NetName=NetD6_2 Pin=R5-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q3-1
+Added Pin To Net: NetName=NetD7_2 Pin=R4-2
+Added Pin To Net: NetName=NetD7_2 Pin=R6-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_C Pin=D8-C
+Added Pin To Net: NetName=NetD8_C Pin=D9-A
+Added Pin To Net: NetName=NetD8_C Pin=T1-7
+Added Net: Name=NetD8_C
+Added Pin To Net: NetName=NetD9_C Pin=D9-C
+Added Pin To Net: NetName=NetD9_C Pin=D11-C
+Added Pin To Net: NetName=NetD9_C Pin=L1-2
+Added Net: Name=NetD9_C
+Added Pin To Net: NetName=NetD10_C Pin=D10-C
+Added Pin To Net: NetName=NetD10_C Pin=D11-A
+Added Pin To Net: NetName=NetD10_C Pin=T1-6
+Added Net: Name=NetD10_C
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=Q4-1
+Added Pin To Net: NetName=NetD12_2 Pin=R10-2
+Added Pin To Net: NetName=NetD12_2 Pin=R13-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=Q5-1
+Added Pin To Net: NetName=NetD13_2 Pin=R11-2
+Added Pin To Net: NetName=NetD13_2 Pin=R14-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=Q6-1
+Added Pin To Net: NetName=NetD14_2 Pin=R12-2
+Added Pin To Net: NetName=NetD14_2 Pin=R15-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R22-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R16-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=PULSE_A_G Pin=D5-1
+Added Pin To Net: NetName=PULSE_A_G Pin=D6-1
+Added Pin To Net: NetName=PULSE_A_G Pin=D7-1
+Added Pin To Net: NetName=PULSE_A_G Pin=J1-6
+Added Pin To Net: NetName=PULSE_A_G Pin=R2-1
+Added Pin To Net: NetName=PULSE_A_G Pin=R3-1
+Added Pin To Net: NetName=PULSE_A_G Pin=R4-1
+Added Net: Name=PULSE_A_G
+Added Pin To Net: NetName=PULSE_B_G Pin=D12-1
+Added Pin To Net: NetName=PULSE_B_G Pin=D13-1
+Added Pin To Net: NetName=PULSE_B_G Pin=D14-1
+Added Pin To Net: NetName=PULSE_B_G Pin=J1-5
+Added Pin To Net: NetName=PULSE_B_G Pin=R10-1
+Added Pin To Net: NetName=PULSE_B_G Pin=R11-1
+Added Pin To Net: NetName=PULSE_B_G Pin=R12-1
+Added Net: Name=PULSE_B_G
+Added Pin To Net: NetName=V_FB Pin=J1-2
+Added Pin To Net: NetName=V_FB Pin=R16-1
+Added Pin To Net: NetName=V_FB Pin=R17-2
+Added Pin To Net: NetName=V_FB Pin=R17-3
+Added Pin To Net: NetName=V_FB Pin=R21-1
+Added Pin To Net: NetName=V_FB Pin=R21-2
+Added Net: Name=V_FB
+Added Pin To Net: NetName=VBATT Pin=C10-1
+Added Pin To Net: NetName=VBATT Pin=R22-2
+Added Pin To Net: NetName=VBATT Pin=T1-2
+Added Pin To Net: NetName=VBATT Pin=T1-2
+Added Net: Name=VBATT
+Added Class: Name=300W Converter_main_HV
+Added Class: Name=DC_power
+Added Room: Name=300W Converter_main_HV
+Added Room: Name=DC_power
