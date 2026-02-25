@@ -1,0 +1,8 @@
+Added Component: Designator=C2(CAP LS-1.5mm D4 H5)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C43351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0057"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Member To Class: ClassName=DC_power Member=Component C2 470UF25V
+Added Room: Name=300W Converter_main_HV
+Added Room: Name=DC_power
