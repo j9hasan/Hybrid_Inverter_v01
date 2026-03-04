@@ -1,0 +1,43 @@
+Added Component: Designator=Con1(2POS)
+Add Component: Footprint Not Found 2pos
+Added Component: Designator=Con3(2POS - 3)
+Added Component: Designator=Con4(2POS)
+Added Component: Designator=Con5(2POS)
+Add Component: Footprint Not Found Res_TH 3W
+Added Pin To Net: NetName=+12 Pin=Con1-1
+Added Pin To Net: NetName=NetCon1_2 Pin=Con1-2
+Add Pin To Net: Unknown Pin: Pin Con2-1
+Add Pin To Net: Unknown Pin: Pin Con2-2
+Added Pin To Net: NetName=GND Pin=Con3-1
+Added Pin To Net: NetName=380v Pin=Con3-2
+Added Pin To Net: NetName=GND Pin=Con4-1
+Added Pin To Net: NetName=+12 Pin=Con4-2
+Added Pin To Net: NetName=GND Pin=Con5-1
+Added Pin To Net: NetName=+5 Pin=Con5-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin u2-1
+Add Pin To Net: Unknown Pin: Pin u2-2
+Add Pin To Net: Unknown Pin: Pin u2-3
+Add Pin To Net: Unknown Pin: Pin u2-4
+Add Pin To Net: Unknown Pin: Pin u2-5
+Add Pin To Net: Unknown Pin: Pin u2-6
+Add Pin To Net: Unknown Pin: Pin u2-7
+Add Pin To Net: Unknown Pin: Pin u2-8
+Add Pin To Net: Unknown Pin: Pin u2-9
+Add Pin To Net: Unknown Pin: Pin u2-10
+Add Pin To Net: Unknown Pin: Pin u2-11
+Add Pin To Net: Unknown Pin: Pin u2-12
+Add Pin To Net: Unknown Pin: Pin u2-13
+Add Pin To Net: Unknown Pin: Pin u2-14
+Add Pin To Net: Unknown Pin: Pin u2-15
+Add Pin To Net: Unknown Pin: Pin u2-16
+Add Pin To Net: Unknown Pin: Pin u2-17
+Added Member To Class: ClassName=inverter Member=Component Con1 2pos
+Add Class Member: Failed to add class member : Component Con2 2pos
+Added Member To Class: ClassName=inverter Member=Component Con3 2pos
+Added Member To Class: ClassName=inverter Member=Component Con4 2pos
+Added Member To Class: ClassName=inverter Member=Component Con5 2pos
+Added Member To Class: ClassName=inverter Member=Component L1 Troidal core  3.3mH
+Add Class Member: Failed to add class member : Component R10 RES-0.5W-10K
+Added Room: Name=inverter

@@ -1,0 +1,21 @@
+Added Component: Designator=Con2(2POS - 3)
+Added Pin To Net: NetName=NetC2_2 Pin=Con2-1
+Added Pin To Net: NetName=VS2 Pin=Con2-2
+Add Pin To Net: Unknown Pin: Pin u2-1
+Add Pin To Net: Unknown Pin: Pin u2-2
+Add Pin To Net: Unknown Pin: Pin u2-3
+Add Pin To Net: Unknown Pin: Pin u2-4
+Add Pin To Net: Unknown Pin: Pin u2-5
+Add Pin To Net: Unknown Pin: Pin u2-6
+Add Pin To Net: Unknown Pin: Pin u2-7
+Add Pin To Net: Unknown Pin: Pin u2-8
+Add Pin To Net: Unknown Pin: Pin u2-9
+Add Pin To Net: Unknown Pin: Pin u2-10
+Add Pin To Net: Unknown Pin: Pin u2-11
+Add Pin To Net: Unknown Pin: Pin u2-12
+Add Pin To Net: Unknown Pin: Pin u2-13
+Add Pin To Net: Unknown Pin: Pin u2-14
+Add Pin To Net: Unknown Pin: Pin u2-15
+Add Pin To Net: Unknown Pin: Pin u2-16
+Add Pin To Net: Unknown Pin: Pin u2-17
+Added Member To Class: ClassName=inverter Member=Component Con2 2pos

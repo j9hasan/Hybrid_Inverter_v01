@@ -1,0 +1,23 @@
+Add Component: Footprint Not Found 2pos
+Add Pin To Net: Unknown Pin: Pin Con2-1
+Add Pin To Net: Unknown Pin: Pin Con2-2
+Add Pin To Net: Unknown Pin: Pin u2-1
+Add Pin To Net: Unknown Pin: Pin u2-2
+Add Pin To Net: Unknown Pin: Pin u2-3
+Add Pin To Net: Unknown Pin: Pin u2-4
+Add Pin To Net: Unknown Pin: Pin u2-5
+Add Pin To Net: Unknown Pin: Pin u2-6
+Add Pin To Net: Unknown Pin: Pin u2-7
+Add Pin To Net: Unknown Pin: Pin u2-8
+Add Pin To Net: Unknown Pin: Pin u2-9
+Add Pin To Net: Unknown Pin: Pin u2-10
+Add Pin To Net: Unknown Pin: Pin u2-11
+Add Pin To Net: Unknown Pin: Pin u2-12
+Add Pin To Net: Unknown Pin: Pin u2-13
+Add Pin To Net: Unknown Pin: Pin u2-14
+Add Pin To Net: Unknown Pin: Pin u2-15
+Add Pin To Net: Unknown Pin: Pin u2-16
+Add Pin To Net: Unknown Pin: Pin u2-17
+Add Class Member: Failed to add class member : Component Con2 2pos
+Added Member To Class: ClassName=inverter Member=Component R12 RES-2W-2.1RRES-3W-0.2R
+Added Room: Name=inverter

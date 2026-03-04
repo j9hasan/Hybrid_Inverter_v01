@@ -1,0 +1,46 @@
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Add Component: Footprint Not Found 2pos
+Added Component: Designator=L1(TOROIDAL CORE INDUCTOR)
+Add Component: Footprint Not Found Res_TH 3W
+Add Pin To Net: Unknown Pin: Pin Con1-1
+Add Pin To Net: Unknown Pin: Pin Con1-2
+Add Pin To Net: Unknown Pin: Pin Con2-1
+Add Pin To Net: Unknown Pin: Pin Con2-2
+Add Pin To Net: Unknown Pin: Pin Con3-1
+Add Pin To Net: Unknown Pin: Pin Con3-2
+Add Pin To Net: Unknown Pin: Pin Con4-1
+Add Pin To Net: Unknown Pin: Pin Con4-2
+Add Pin To Net: Unknown Pin: Pin Con5-1
+Add Pin To Net: Unknown Pin: Pin Con5-2
+Added Pin To Net: NetName=VS1 Pin=L1-1
+Added Pin To Net: NetName=NetC2_2 Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin u2-1
+Add Pin To Net: Unknown Pin: Pin u2-2
+Add Pin To Net: Unknown Pin: Pin u2-3
+Add Pin To Net: Unknown Pin: Pin u2-4
+Add Pin To Net: Unknown Pin: Pin u2-5
+Add Pin To Net: Unknown Pin: Pin u2-6
+Add Pin To Net: Unknown Pin: Pin u2-7
+Add Pin To Net: Unknown Pin: Pin u2-8
+Add Pin To Net: Unknown Pin: Pin u2-9
+Add Pin To Net: Unknown Pin: Pin u2-10
+Add Pin To Net: Unknown Pin: Pin u2-11
+Add Pin To Net: Unknown Pin: Pin u2-12
+Add Pin To Net: Unknown Pin: Pin u2-13
+Add Pin To Net: Unknown Pin: Pin u2-14
+Add Pin To Net: Unknown Pin: Pin u2-15
+Add Pin To Net: Unknown Pin: Pin u2-16
+Add Pin To Net: Unknown Pin: Pin u2-17
+Add Class Member: Failed to add class member : Component Con1 2pos
+Add Class Member: Failed to add class member : Component Con2 2pos
+Add Class Member: Failed to add class member : Component Con3 2pos
+Add Class Member: Failed to add class member : Component Con4 2pos
+Add Class Member: Failed to add class member : Component Con5 2pos
+Added Member To Class: ClassName=inverter Member=Component L1 Troidal core  3.3mH
+Add Class Member: Failed to add class member : Component R10 RES-0.5W-10K
+Added Room: Name=inverter
