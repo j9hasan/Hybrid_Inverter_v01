@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WNEZPCVO
 
 [Document5]
-DocumentPath=SG3525_driver.PcbDoc
+DocumentPath=controller_sg3525.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DCYUBHGI
+DocumentUniqueId=XWABGHDY
 
 [Configuration1]
 Name=Sources
