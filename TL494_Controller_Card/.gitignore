@@ -1,4 +1,6 @@
 # Ignore specific folders
 History/
-Project Logs for TL494_Card/
+/Project Logs for TL494_Card/
+/Project Outputs for TL494_Card/
+/Project Outputs for Free Documents/
 __Previews/
