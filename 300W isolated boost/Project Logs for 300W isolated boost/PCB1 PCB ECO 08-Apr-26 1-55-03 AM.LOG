@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND1 Pin=Con1-1
+Added Pin To Net: NetName=GND2 Pin=Con1-1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1UFCER
+Added Member To Class: ClassName=Sheet2 Member=Component Q3 IRF3205
+Added Member To Class: ClassName=Sheet2 Member=Component R8 1M
+Added Member To Class: ClassName=Sheet2 Member=Component R9 10R
+Added Member To Class: ClassName=Sheet2 Member=Component R10 10R
+Added Member To Class: ClassName=Sheet2 Member=Component R11 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R12 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R13 150K
+Added Member To Class: ClassName=Sheet2 Member=Component R14 0.5M
+Added Member To Class: ClassName=Sheet2 Member=Component R15 40K
+Added Member To Class: ClassName=Sheet2 Member=Component R16 RES-2W-1R
+Added Member To Class: ClassName=Sheet2 Member=Component R17 RES-2W-1R
+Added Member To Class: ClassName=Sheet2 Member=Component R18 RES-2W-1R
+Added Member To Class: ClassName=Sheet2 Member=Component R19 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R20 4.7K
+Added Member To Class: ClassName=Sheet2 Member=Component R21 0R
+Added Member To Class: ClassName=Sheet2 Member=Component R22 4.7K

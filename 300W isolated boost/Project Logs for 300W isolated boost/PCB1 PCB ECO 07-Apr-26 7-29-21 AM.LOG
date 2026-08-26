@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND2 Pin=C5-1
+Removed Pin From Net: NetName=NetC2_1 Pin=C5-2
+Change Component Comment : Designator=C5 Old Comment=1UFCER New Comment=100nFCER
+Added Component: Designator=C12(CAP-CER-2.54)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0104"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND2 Pin=C12-1
+Added Pin To Net: NetName=NetC2_1 Pin=C12-2
+Added Member To Class: ClassName=Sheet1 Member=Component C12 100nFCER
